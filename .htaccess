@@ -1,17 +1,9 @@
-<IfModule Litespeed> 
-RewriteEngine On
-RewriteRule .* - [E=noabort:1, E=noconntimeout:1]
-</IfModule>
-
-rewriteCond %{HTTPS} !on
-rewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
-rewriteCond %{HTTPS} !on
-rewriteCond %{HTTP:X-Forwarded-Proto} !https
-rewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
 
-# php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php74” package as the default “PHP” programming language.
-<IfModule mime_module>
-  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+# BEGIN Sitepad
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
 </IfModule>
-# php -- END cPanel-generated handler, do not edit
+# END Sitepad
