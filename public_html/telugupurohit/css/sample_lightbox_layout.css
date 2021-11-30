@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+/* jQuery lightBox plugin - Gallery style */
+/*  This layout is for sample purposes
+    Feel free to edit it to suit your needs
+*/
+.lbGallery {
+	padding: 10px;
+	width: 100%;
+	}
+	.lbGallery ul { list-style: none; }
+	.lbGallery ul li {
+	display: inline;
+}
+	.lbGallery ul img {
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #872E10;
+	border-right-color: #872E10;
+	border-bottom-color: #872E10;
+	border-left-color: #872E10;
+	margin: 5px;
+	}
+	.lbGallery ul a:hover img {
+	border: 5px solid #fff;
+	border-width: 5px 5px 5px;
+	color: #fff;
+	}
+	.lbGallery ul a:hover { color: #fff; }
+	

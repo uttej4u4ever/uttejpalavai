@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+           "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<title>Default Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="file:///F|/actionscript/CSS_styles/files for Default Document/basestyles.css" rel="stylesheet" type="text/css">
+
+<script type="text/JavaScript">
+<!--
+//experimental style setting/switching
+function P7_setDomStyle(){ //v0.6 experimental by PVII
+ //run only if ver 5 browser
+ if(!document.getElementById){alert('DOM-Level Style Switching Requires a Modern Browser.\nThe underlying premise of this tutorial will work in Netscape 4 when the actual style sheet is edited.');return;}
+ var i,g,args=P7_setDomStyle.arguments;
+ for(i=0;i<args.length;i+=3){
+  g=document.getElementById(args[i]);
+  if(g){
+   eval("g.style."+args[i+1]+"=\""+args[i+2]+"\"");
+  }
+ }
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0%;
+	margin-right: 0%;
+	background-color: #000000;
+}
+-->
+</style>
+</head>
+<body id="bd">
+<table align="center" cellpadding="20" cellspacing="0" id="mainTable">
+  <tr>
+    <!-- Header -->
+    <td id="header" colspan="2">[ Logo ]</td>
+  </tr>
+  <tr>
+    <!-- Sidebar -->
+    <td valign="top" bgcolor="#0F241B" id="sidebar"><br>
+    <A href="http://www.dannam.net/thedirectorsword.html">The Director's Word</A><A href="http://www.dannam.net/aboutdirection.html">About Directio</A><A href="http://www.dannam.net/aboutthemovie.html">About the movie</A><A href="http://www.dannam.net/abouttheproducer.html">About the produce</A><A href="http://www.dannam.net/othertechnicians.html">Telangana Issues</A><A href="http://www.dannam.net/othertechnicians.html">Nation's Characters</A><!-- Link set 2 Script Events are for illustrative purposes only --><A href="http://www.dannam.net/otherarticles.html">Other articles</A><A href="http://www.dannam.net/gateway.html">Gate way</A></td>
+    <!-- Main Content -->
+    <td valign="top" bgcolor="#FFFFFF" id="maincontent"><table width="787" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td bgcolor="#FFFFFF"><div align="center"><img src="images/PV.jpg" width="155" height="213"></div></td>
+      </tr>
+      <tr>
+        <td><img src="images/directorsword2.jpg" width="787" height="494"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <!-- Footer -->
+    <td height="66" colspan="2" id="footer">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

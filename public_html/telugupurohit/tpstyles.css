@@ -1,0 +1,182 @@
+body {
+	background-color: #e2bf68;
+	background-attachment: fixed;
+	background-image: url(images/elebg.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+_#bgleft {
+	background-attachment: fixed;
+	background-image: url(images/bgleft.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+_#bgright {
+	background-attachment: fixed;
+	background-image: url(images/bgright.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+* {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+#logo {
+	text-align: left;
+	margin-bottom: 5px;
+	padding-top: 5px;
+}
+#slokas {
+	margin-top: 5px;
+}
+#navigation {
+	background: #be3c01; /* for non-css3 browsers */
+
+
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#be3c01', endColorstr='#8f3418'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#be3c01), to(#8f3418)); /* for webkit browsers */
+	background: -moz-linear-gradient(top, #be3c01, #8f3418); /* for firefox 3.6+ */
+	height:45px;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	text-align: left;
+	font-family: "Trebuchet Ms";
+	font-size: 12px;
+	font-weight: bold;
+}
+#navigation ul {
+	padding-top: 10px;
+	padding-left: 20px;
+}
+#navigation a {
+	font-family: "Trebuchet Ms";
+	font-size: 14px;
+	color: #dda04c;
+	text-decoration: none;
+}
+#navigation a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#navigation li {
+	display: inline;
+	list-style-type: none;
+	margin-right: 15px;
+}
+body,td,th {
+	font-family: Trebuchet MS;
+	color: #872E10;
+}
+#welcome {
+	padding: 4px;
+	float: left;
+	width: 100%;
+	margin-right: 8px;
+	text-align: left;
+}
+#content1 {
+	_height: 250px;
+	border: 2px dashed #4B5766;
+	width: 280px;
+	float: right;
+	text-align: left;
+}
+#content1 ul {
+	margin-left: 30px;
+}
+#latestnews ul {
+	margin-left: 30px;
+}
+
+#content2 {
+	_height: 150px;
+	background-color: #CBBA77;
+	width: 280px;
+	float: right;
+	margin-top: 8px;
+	border: 2px dashed #4B5766;
+}
+#navigation a:active {
+	color: #FFFFFF;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+#copy {
+	clear: both;
+	left: 20%;
+	bottom: 0px;
+	font-size: 12px;
+	padding-top: 10px;
+	border-top-width: 1.5px;
+	border-right-width: 1.5px;
+	border-bottom-width: 1.5px;
+	border-left-width: 1.5px;
+	border-top-style: solid;
+	border-top-color: #4B5766;
+	border-right-color: #4B5766;
+	border-bottom-color: #4B5766;
+	border-left-color: #4B5766;
+}
+
+#latestnews{
+	float:right;
+	text-align:left;
+	border: 2px dashed #4B5766;
+	width:280px;
+	margin-bottom:8px;
+	
+	
+	}
+#contact_wrapper {
+	text-align: center;
+	margin: 10px;
+	padding: 5px;
+	border: 3px groove #872E10;
+	font-size: 18px;
+}
+.braces {
+	font-size: 36px;
+}
+.marquee {
+	font-size: 18px;
+
+
+}
+.contact_telugu {
+	float: left;
+	text-align: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+}
+.contact_english {
+	text-align: left;
+	line-height: 30px;
+	margin-top: -20px;
+}

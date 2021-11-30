@@ -1,0 +1,86 @@
+body {
+	margin: 0 10% 0 10%;
+	padding: 0;
+	font-size: 14px;
+	background-color: #FFF;
+}
+
+#mainTable {
+	margin: 0 auto;
+	border: 1px solid #000;
+	/*/*/line-height: 1em.em; /* */
+}
+#mainTable td {
+	height: 0px;
+}
+#maincontent {
+	font-size: 100%;
+	/*/*/font-size: 100%;
+	border-left-style: inherit;
+	border-left-color: #333;
+	padding: 0px;
+	margin: 0px;
+	height: auto;
+	width: auto;
+}
+#sidebar {
+	width: 150px.px;
+	font-size: 12px;
+	/*/*/font-size: 85%; /* */
+
+}
+#header {
+	background-color: #333333;
+	color: #CCCCCC;
+}
+#footer {
+	background-color: #333333;
+	color: #CCCCCC;
+	background-image: url(file:///F|/actionscript/CSS_styles/files for Default Document/csst_bg.gif);
+}
+
+td, p, ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+h1:first-child {margin-top: 0;}/*starts first heading in a TD flush top*/
+h2:first-child {margin-top: 0;}/*starts first heading in a TD flush top*/
+h1 { font-size: 160%; }
+h2 { font-size: 140%; }
+
+#sidebar a {
+	/*/*/padding: 3px;
+	display: block;
+	border: 2px dotted #CCC;
+	text-decoration: none;
+	line-height: 1em;
+	width: 170px; /* */
+}
+#sidebar a:link, #sidebar a:visited {
+	color: #FFFFFF;
+}
+#sidebar a:hover, #sidebar a:active {
+	color: #FFFFFF;
+	background-color: #CC0000;
+	border: 2px solid #ccc;
+}
+#current a {
+	color: #FFFFFF !important;
+	/*/*/background-color: #999999!important;
+	border: 2px dotted #999 !important; /* */
+}
+#sidebar ul {
+	/*/*/padding-left: 1em;
+	list-style-type: none;
+	margin-left: 1em; /* */
+}
+
+#sidebar li {
+	/*/*/margin: 0px 0px 6px 0px; /* */
+}
+#n4shell {
+/* Happy hunting. This rule will allow you to create an outer border around the layout table in netscape 4. Wrap the entire table inside a div and assign to the div this id */
+	border: 1px solid #000;
+	/*/*/border: 0; /* */
+}

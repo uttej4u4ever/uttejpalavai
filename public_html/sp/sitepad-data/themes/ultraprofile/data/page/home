@@ -1,0 +1,212 @@
+[pl_row pagelayer-id="mlm36ev4y67km75i"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_transperancy="0.5" overlay_color="#3a44472c" ele_margin="0px,0px,0px,0px" ele_padding="30px,0px,30px,0px" ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png" bg_slider_speed="2000" bg_slider="{{theme_url}}/images/slider-img1.jpg,{{theme_url}}/images/slider-img2.jpg" row_bg_type="parallax" parallax_img="{{theme_url}}/images/banner.jpg" ele_padding_mobile="10px,0px,30px,0px"]
+[pl_col pagelayer-id="fcnk4y6tvupueepr"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" ele_padding="10%,0%,10%,0%" ele_margin="58px,0px,0px,0px" ele_padding_mobile="0%,0%,10%,0%" ele_margin_mobile="0px,0px,0px,0px"]
+[pl_heading pagelayer-id="zg449bg3ivo7fg7k"  color="#3a3835ff" ele_bg_hover_delay="400" align="center" heading_typo=",55,,600,,,Solid,,Uppercase,," heading_state="normal" animation="fadeInDown" animation_delay="600" ele_align="margin" ele_height="auto" heading_typo_mobile=",25,,600,,,Solid,,Uppercase,,"]
+
+
+JOHN WHITE[/pl_heading]
+[pl_heading pagelayer-id="8w2smjpyv83nncpz"  color="#eb5424ff" ele_bg_hover_delay="400" align="center" heading_typo=",30,,600,,,Solid,,Uppercase,," heading_state="normal" animation="fadeInDown" animation_delay="600" ele_align="margin" ele_height="auto" ele_margin="30px,0px,30px,0px" heading_typo_mobile=",20,,600,,,Solid,,Uppercase,," ele_margin_mobile="5px,0px,4px,0px"]
+
+
+CREATIVE DIRECTOR[/pl_heading]
+[pl_text pagelayer-id="6ohk7lxfyy073250"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" ele_padding="0%,15%,0%,15%" ele_padding_mobile="0%,2%,0%,1%"]
+
+
+<p style="text-align: center; ">I am a professional <strong>UX Designer</strong> and <strong>Front-End Developer</strong> creating modern and responsive designs for <strong>Web</strong> and <strong>Mobile</strong>. Let us work together. Thank you.</p>[/pl_text]
+[pl_btn pagelayer-id="vtde0i4hq0dvrnlm"  text="Let&#39;s Begin" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-large" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" btn_bg_color="#eb5424ff" btn_color="#ffffff" btn_border_type="solid" btn_border_color="#42414f" btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" btn_typo=",20,,,,,Solid,,,," ele_margin="30px,0px,0px,0px" ele_margin_mobile="4px,0px,0px,0px" btn_typo_mobile=",13,,,,,Solid,,,,"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="aaqc19a59e7ln3zt"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="70px,0px,0px,0px"]
+[pl_col pagelayer-id="e4kdavfeh5ifqccm"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_text pagelayer-id="9auiqai8f8ad2go0"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p style="text-align: center; "><span style="color: rgb(0, 0, 0); font-size: xxx-large;">MY <strong style="">WORK</strong></span></p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="tsmqflko4ojdlezz"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,70px,0px"]
+[pl_col pagelayer-id="3nu2bpmpig9ic78k"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_margin="0px,0px,0px,0px" col_width="60" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_iconbox pagelayer-id="3ujgfombmkfpbuhq"  service_icon="fas fa-link" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#5f6367ff" service_icon_font_size="55" service_icon_hover_delay="400" service_bor_state="normal" service_heading="MOBILE UX" service_title_spacing="20,0,25,0" heading_state="normal" service_heading_color="#eb5424ff" service_heading_typo=",22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" service_icon_spacing="0,0,30,0" border_type="solid" border_width="1px,1px,1px,1px" border_color="#464242ff" ele_padding="60px,30px,60px,30px" border_hover="hover" border_type_hover="solid" border_width_hover="1px,1px,1px,1px" border_color_hover="#eb5424ff"]
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.</p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="tdpzrhljf130icoh"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_margin="0px,0px,0px,0px" col_width="60" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_iconbox pagelayer-id="99ckb5jczu7exovu"  service_icon="fas fa-bolt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#5f6367ff" service_icon_font_size="55" service_icon_hover_delay="400" service_bor_state="normal" service_heading="WEB DESIGN" service_title_spacing="20,0,25,0" heading_state="normal" service_heading_color="#eb5424ff" service_heading_typo=",22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" service_icon_spacing="0,0,30,0" border_type="solid" border_width="1px,1px,1px,1px" border_color="#464242ff" ele_padding="60px,30px,60px,30px" border_hover="hover" border_type_hover="solid" border_width_hover="1px,1px,1px,1px" border_color_hover="#eb5424ff"]
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.</p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="ehg93nfr9zswku0s"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" ele_margin="0px,0px,0px,0px" col_width="60" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_iconbox pagelayer-id="a2013zbq8hvhfv4c"  service_icon="fas fa-tachometer-alt" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#5f6367ff" service_icon_font_size="55" service_icon_hover_delay="400" service_bor_state="normal" service_heading="HTML TEMPLATES" service_title_spacing="20,0,25,0" heading_state="normal" service_heading_color="#eb5424ff" service_heading_typo=",22,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" service_icon_spacing="0,0,30,0" border_type="solid" border_width="1px,1px,1px,1px" border_color="#464242ff" ele_padding="60px,30px,60px,30px" border_hover="hover" border_type_hover="solid" border_width_hover="1px,1px,1px,1px" border_color_hover="#eb5424ff"]
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna.</p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="vz2xb65cxbe5hq7h"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#f8f8f8ff" ele_padding="60px,0px,50px,0px"]
+[pl_col pagelayer-id="68kwq7zididxsf97"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12"]
+[pl_heading pagelayer-id="7ukzd3rai0usaz9j"  heading_state="normal" color="#111111ff" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" align="center"]
+
+<h2></h2>[/pl_heading]
+[pl_text pagelayer-id="ys049tiocwsr0d9g"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p style="text-align: center; "><span style="font-size: xx-large;">MY <strong style="">PORTFOLIO
+</strong></span></p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="f2xecd8nx36syl7z"  stretch="full" col_gap="0" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col pagelayer-id="mpbqnsx78n1y4o52"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image pagelayer-id="ip5651lc8ke6il1s"  id="{{theme_url}}/images/portfolio1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[pl_image pagelayer-id="50hpw473zt7i3dw2"  id="{{theme_url}}/images/portfolio5.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="hoacv2tgfehyxzqy"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image pagelayer-id="koj21uddlb8gyfjg"  id="{{theme_url}}/images/portfolio2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[pl_image pagelayer-id="c19wfhxwhlf38qai"  id="{{theme_url}}/images/portfolio6.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="uqgs2yf1374spv16"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image pagelayer-id="2s5tw9wqf69levqg"  id="{{theme_url}}/images/portfolio3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[pl_image pagelayer-id="z59wyfc2hhwhbpfb"  id="{{theme_url}}/images/portfolio7.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="nwv37fqy84zhfd2r"  widget_space="0" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_image pagelayer-id="0yydp94gq4jksvos"  id="{{theme_url}}/images/portfolio4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[pl_image pagelayer-id="4dhrfygjxgkqc89f"  id="{{theme_url}}/images/portfolio8.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" overlay="true" icon="fa fa-star" icon_color="#e6cf03" icon_size="50" overlay_bg="#cc2127ae" content_position="flex-end" link_type="lightbox"]
+
+<h3><span style="color: rgb(255, 255, 255);">UX Design</span></h3>
+<p><span style="color: rgb(255, 255, 255);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</span></p>[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="x5i8chs8u5205gto"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_bg_type="" ele_bg_color="#f9f9f9ff" ele_padding="70px,0px,70px,0px"]
+[pl_col pagelayer-id="g8ztiv2ih61d5ibi"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="12" animation="fadeInUp" animation_delay="600"]
+[pl_inner_row pagelayer-id="poxgv3bdujgudetx"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_inner_col pagelayer-id="ohc8g5jux9det49x"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_text pagelayer-id="dm8292qwqbq1hppj"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p><span style="color: rgb(0, 0, 0); font-size: xxx-large;">MY <strong style="">PROFILE
+</strong></span></p>[/pl_text]
+[pl_list pagelayer-id="r3l0atwk8pkrd43q"  list_type="none" spacing="25" list_text_state="normal" item_indent="10" list_icon_state="normal" icon_color="#3E8EF7" icon_border_type="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon_border_color="#cbd2dc78" icon_border_width="3"]
+[pl_list_item pagelayer-id="wwf2ie0thgvlhegj"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Name</strong> John White[/pl_list_item]
+[pl_list_item pagelayer-id="q2p6zu4nfjnjsisx"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Birthday </strong> December 24, 1996[/pl_list_item]
+[pl_list_item pagelayer-id="alhen4633zwkbg3w"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Address</strong> Melbourne Victoria 3000 Australia[/pl_list_item]
+[pl_list_item pagelayer-id="kfpqk984hqmo39ch"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Phone </strong> +001 020 0340 | 009 080 0760[/pl_list_item]
+[pl_list_item pagelayer-id="kne5o88qlvsv2wln"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Email </strong> hello@company.com[/pl_list_item]
+[pl_list_item pagelayer-id="a6kn017yfbg69ese"  show_icon="" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" icon="fa fa-star"]
+
+
+<strong>Website </strong>www.company.com[/pl_list_item]
+[/pl_list]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="q278kp5rz4kkopzr"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_margin="0px,0px,0px,0px" col_width="60" ele_padding_tablet="0px,0px,0px,0px" ele_padding_mobile="0px,0px,0px,0px"]
+[pl_text pagelayer-id="wabxc7168a52bw4p"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p><span style="color: rgb(0, 0, 0); font-size: xxx-large;"><strong>SOME </strong>SKILLS</span></p>[/pl_text]
+[pl_text pagelayer-id="rvvqbjx67s7n5w89"  ele_bg_hover_delay="400" animation="fadeInDown" animation_delay="600" ele_align="margin" ele_height="auto"]
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.
+</p>[/pl_text]
+[pl_chart pagelayer-id="csxljqrrxmqb8rbe"  type="horizontalBar" legend_pos="top" labels="BOOTSTRAP, HTML, SEO" tick_type="xaxis" xbegin="true" ybegin="true" title="Performance" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" title_color="#47425d" title_align="center" custom_dimension="true" chart_height="147" chart_width="100"]
+[pl_chart_datasets pagelayer-id="o1fkyrlycsq3ihd4"  label="Dataset" datasets="60, 90, 100" fill_color="true" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" bg_color="#eb5424ff"]
+[/pl_chart_datasets]
+[/pl_chart]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="pnfnmndqhb7y00dg"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_bg_type="" ele_bg_color=" " ele_padding="80px,0px,80px,0px" row_bg_type="parallax" parallax_img="{{theme_url}}/images/about-bg.jpg"]
+[pl_col pagelayer-id="glvthd43c65xredd"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" animation="fadeInUp" animation_delay="600"]
+[/pl_col]
+[pl_col pagelayer-id="xvs2kxu2xejzpnbw"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" animation="fadeInUp" animation_delay="600"]
+[pl_text pagelayer-id="3i6evcjm7ye4uq90"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p><span style="color: rgb(0, 0, 0); font-size: xx-large;">THIS IS <strong style="">ME
+</strong></span></p>[/pl_text]
+[pl_text pagelayer-id="0h0uel7r8urd8n5p"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p><span style="font-size: xx-large;"><span style="color: rgb(0, 0, 0);">CREATIVE </span><font color="#CC2127"><strong>DIRECTOR
+</strong></font></span></p>[/pl_text]
+[pl_text pagelayer-id="mtce5otiy3kpuf0z"  ele_bg_hover_delay="400" animation="fadeInDown" animation_delay="600" ele_align="margin" ele_height="auto"]
+
+
+<p>This is free Bootstrap mobile friendly layout from SitePad Feel free to use it for your website. Go to SitePad Editor to add your own text and edit me. Go to SitePad Editor to add your own text and edit me. Dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.
+</p>[/pl_text]
+[pl_text pagelayer-id="zh503mfvfou4n1uv"  ele_bg_hover_delay="400" animation="fadeInDown" animation_delay="600" ele_align="margin" ele_height="auto"]
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="1heqaezslmlnphnd"  stretch="full" col_gap="0" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col pagelayer-id="tu4ko1jbhws9ysef"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox pagelayer-id="bjbhai1g3ihyfx54"  service_icon="fab fa-facebook-f" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#232527ff" service_icon_font_size="27" service_icon_hover_delay="400" service_bor_state="normal" service_heading="FOLLOW ME ON" service_title_spacing="0,0,10,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",18,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" ele_bg_type="color" ele_bg_color="#3b5998ff" ele_padding="14%,5%,14%,5%" service_icon_background_color="#ffffffff" service_content_spacing="0,0,0,15" ele_bg_hover="hover" ele_bg_type_hover="color" ele_bg_color_hover="#0b0c0cff"]
+
+<p><span style="color: rgb(255, 255, 255); font-size: x-large;">SOCIAL FACEBOOK</span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="jkzh4ti6fhmr4wud"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox pagelayer-id="hy4k6zyhgs9n1qj8"  service_icon="fab fa-twitter" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#232527ff" service_icon_font_size="27" service_icon_hover_delay="400" service_bor_state="normal" service_heading="TWEET ME ON" service_title_spacing="0,0,10,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",18,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" ele_bg_type="color" ele_bg_color="#55aceeff" ele_padding="14%,5%,14%,5%" service_icon_background_color="#ffffffff" service_content_spacing="0,0,0,15" ele_bg_hover="" ele_bg_type_hover="color" ele_bg_color_hover="#0b0c0cff"]
+
+<p><span style="color: rgb(255, 255, 255); font-size: x-large;">SOCIAL TWITTER</span></p>[/pl_iconbox]
+[/pl_col]
+[pl_col pagelayer-id="4oqrgzcd8fcn6e6o"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3"]
+[pl_iconbox pagelayer-id="irt2ytqvpfwqixsq"  service_icon="fab fa-pinterest-p" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#232527ff" service_icon_font_size="27" service_icon_hover_delay="400" service_bor_state="normal" service_heading="PIN ME ON" service_title_spacing="0,0,10,15" heading_state="normal" service_heading_color="#ffffffff" service_heading_typo=",18,,600,,,Solid,,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" ele_bg_type="color" ele_bg_color="#cc2127ff" ele_padding="14%,5%,14%,5%" service_icon_background_color="#ffffffff" service_content_spacing="0,0,0,15" ele_bg_hover="" ele_bg_type_hover="color" ele_bg_color_hover="#0b0c0cff"]
+
+<p><span style="color: rgb(255, 255, 255); font-size: x-large;">SOCIAL PINTEREST</span></p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="l6cfni2yxrxw3add"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="70px,0px,0px,0px"]
+[pl_col pagelayer-id="exdwl1enugf6vhxl"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_text pagelayer-id="x1uhqfoxhgdjwjff"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto" ele_margin="25px,0px,40px,0px"]
+
+<p style="text-align: center; "><span style="font-size: xxx-large;">DROP <strong>ME A LINE
+</strong></span></p>[/pl_text]
+[pl_contact pagelayer-id="6hs53mxtuut04fxu"  submit="Shoot Message" form="contact-form" name="Contact Form" form_position="center" submit_font_family="default" ele_bg_hover_delay="400" label_typo=",16,,,,,Solid,,,," space_label="0,0,4,0" input_padding="12,12" radio_padding="10,10" field_hover_delay="400" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" placeholder_typo=",,,,,,Solid,,,," field_border_type="solid" field_border_color="#141515ff" field_border_width="1,1,1,1" form_input_bg=" " btn_bg_color="#ffffff09" btn_color="#100f0fff" animation="fadeInUp" animation_delay="600" ele_align="margin" ele_height="auto" btn_border_type="solid" btn_border_color="#313133ff" btn_border_width="1,1,1,1" btn_border_radius="0,0,0,0" ele_margin="0%,0%,0%,0%" btn_hover="hover" btn_color_hover="#ffffffff" btn_bg_color_hover="#0a0a0aff" field_state="focus" field_shadow_focus="0,2,5,#5c6163ff,0," field_border_color_focus=" " field_border_width_focus="2,2,2,2" ele_padding="0%,10%,0%,10%" ele_padding_tablet="0%,10%,0%,10%" ele_padding_mobile="0%,0%,0%,0%"]
+[pl_contact_item pagelayer-id="5a7wop59wjqkk6du"  label_name="Your Name" field_type="text" values="One
+Two" field_name="name" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width="49" space_between="0,0,10,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="ue3qhlccpl378rtg"  label_name="Your Email" field_type="email" values="One
+Two" field_name="email" ele_bg_hover_delay="400" label_as_holder="true" field_display="inline-block" field_width="50" space_between="0,0,10,10" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="9wgoiciz80xy367n"  label_name="Your Subject" field_type="text" values="One
+Two" field_name="subject" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6" field_width="99" space_between="0,0,10,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="dpaqrym8gr8s7gkg"  label_name="Message" field_type="textarea" values="One
+Two" field_name="message" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6" field_width="99" space_between="0,0,0,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[/pl_row]

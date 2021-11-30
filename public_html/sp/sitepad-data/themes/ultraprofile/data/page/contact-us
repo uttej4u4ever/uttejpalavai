@@ -1,0 +1,84 @@
+[pl_row pagelayer-id="9dzi2j4komtkzlo7"  ele_margin="0px,0px,0px,0px" stretch="full" col_gap="0" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400"]
+[pl_col pagelayer-id="bwtrihsxwvpwc05g"  col="12"]
+[pl_google_maps pagelayer-id="7d8qaxjiy35z2xpw"  zoom="10" height="330" ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+
+
+
+
+
+
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[pl_text pagelayer-id="xu8ffsebva8s4acj" ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="i9utw5bcmgvai43f"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="70px,0px,70px,0px"]
+[pl_col pagelayer-id="xn1yqzdl7l4j9fxj"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_margin="0%,0%,0%,0%"]
+[pl_heading pagelayer-id="70usw9h1noyhc7uu"  heading_state="normal" color=" " ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<h3>Leave your comments
+</h3>[/pl_heading]
+[pl_contact pagelayer-id="bc8de1qqxre5sgve"  submit="Submit" form="contact-form" name="Contact Form" form_position="left" submit_font_family="default" ele_bg_hover_delay="400" label_typo=",16,,,,,Solid,,,," space_label="0,0,4,0" input_padding="12,12" radio_padding="10,10" field_hover_delay="400" type="pagelayer-btn-custom" size="pagelayer-btn-small" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" placeholder_typo=",,,,,,Solid,,,," field_border_type="solid" field_border_color="#171717ff" field_border_width="1,1,1,1" form_input_bg=" " btn_bg_color="#1e1b1bf9" btn_color="#ffffffff" animation="fadeInUp" animation_delay="600" ele_align="margin" ele_height="auto" btn_border_type="solid" btn_border_color="#ececeeff" btn_border_width="2,2,2,2" btn_border_radius="0,0,0,0" ele_margin="0%,0%,0%,0%" btn_hover="" btn_color_hover=" " btn_bg_color_hover=" " field_state="hover" field_shadow_focus="0,2,5,#5c6163ff,0," field_border_color_focus=" " field_border_width_focus="2,2,2,2" ele_padding="0%,0%,0%,0%" ele_padding_tablet="0%,10%,0%,10%" ele_padding_mobile="0%,0%,0%,0%" btn_typo=",14,,,,,Solid,,Uppercase,," form_position_tablet="left"]
+[pl_contact_item pagelayer-id="9n7n991m2sfjk6z5"  label_name="Name" field_type="text" values="One
+Two" field_name="name" ele_bg_hover_delay="400" label_as_holder="true" field_display="" field_width="100" space_between="0,0,18,0" ele_align="margin" ele_height="auto" field_width_tablet="100"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="2xsngygq1s1nod64"  label_name="Email" field_type="email" values="One
+Two" field_name="email" ele_bg_hover_delay="400" label_as_holder="true" field_display="" field_width="100" space_between="0,0,18,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="p5ycz4y2ur9h50hb"  label_name="Subject" field_type="text" values="One
+Two" field_name="subject" ele_bg_hover_delay="400" label_as_holder="true" field_display="" field_width="100" space_between="0,0,18,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="7dqsvrkmip21y4wq"  label_name="Message" field_type="textarea" values="One
+Two" field_name="message" ele_bg_hover_delay="400" label_as_holder="true" textarea_rows="6" field_width="100" space_between="0,0,0,0" ele_align="margin" ele_height="auto"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col pagelayer-id="jj3y3v8e0mha3qdd"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_margin="0%,0%,0%,0%"]
+[pl_heading pagelayer-id="po1tog1echhalsy7"  heading_state="normal" color=" " ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<h3>Get in Touch
+</h3>[/pl_heading]
+[pl_text pagelayer-id="qskflhxljc2zfbna"  ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>[/pl_text]
+[pl_address pagelayer-id="4hm850nSyYLTHF0i"  icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" space="15" icon_color="#ea5424ff" icon_size="24"]
+[/pl_address]
+[pl_phone pagelayer-id="rPGHcKFVHNGzuXQZ"  icon="fas fa-phone-alt" ele_bg_hover_delay="400" space="15" icon_size="24" icon_color="#ea5424ff"]
+[/pl_phone]
+[pl_email pagelayer-id="5ug6gjLEecY47XhZ"  icon="fas fa-envelope" ele_bg_hover_delay="400" space="15" icon_size="24" icon_color="#ea5424ff"]
+[/pl_email]
+[pl_heading pagelayer-id="8xozocdmqedz73ar"  heading_state="normal" color=" " ele_bg_hover_delay="400" ele_align="margin" ele_height="auto"]
+
+<h3>Business Hours
+</h3>[/pl_heading]
+[pl_list pagelayer-id="gw76bqqx53xarzfx"  list_type="none" spacing="15" list_color="#221e1eff" item_indent="10" icon_color="#1f2224ff" icon_border_type="" ele_bg_hover_delay="400" icon_border_color="#cbd2dc78" icon_border_width="3" icon_size="18" animation="fadeInUp" animation_delay="600" list_icon_state="normal" list_text_state="normal" ele_align="margin" ele_height="auto"]
+[pl_list_item pagelayer-id="jtb2al6ger3aoboa"  show_icon="true" ele_bg_hover_delay="400" icon="far fa-clock" item_url="" ele_align="margin" ele_height="auto"]
+
+Monday – Friday – 9am to 5pm[/pl_list_item]
+[pl_list_item pagelayer-id="gp0pmwp7heu1w40w"  show_icon="true" ele_bg_hover_delay="400" icon="far fa-clock" item_url="" ele_align="margin" ele_height="auto"]
+
+Saturday – 9am to 2pm[/pl_list_item]
+[pl_list_item pagelayer-id="8kb1apc5fz6hiefq"  show_icon="true" ele_bg_hover_delay="400" icon="far fa-clock" item_url="" ele_align="margin" ele_height="auto"]
+
+Sunday – Closed[/pl_list_item]
+[/pl_list]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,78 @@
+#navigation-bd326d0e-a31c-76d3-1255-e2594090218a {
+	text-align: left;
+}.rtl #navigation-bd326d0e-a31c-76d3-1255-e2594090218a {
+	text-align: right;
+}#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li > a {
+			font-family: Dosis, sans-serif;
+			font-size: 14px;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li {
+			margin: 5px 0px 5px 0px;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: none;
+			padding: 2px 9px 4px 9px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 7px;
+			box-shadow: none;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li {
+			margin: 2px 5px 2px 0px;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li > a {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: none;
+			padding: 2px 9px 4px 9px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 7px;
+			box-shadow: none;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected:hover,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected:hover,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li:hover {
+			margin: 5px 0px 5px 0px;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected:hover > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected:hover > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li:hover > a {
+			padding: 2px 9px 4px 9px;
+			border: solid #000000;
+			border-width: 0px;
+			border-radius: 7px;
+			box-shadow: none;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.selected,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.childselected,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.selected:hover,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.childselected:hover,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li:hover {
+			margin: 2px 5px 2px 0px;
+		}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.selected > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.childselected > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.selected:hover > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li.childselected:hover > a,
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul li:hover > a {
+			padding: 2px 9px 4px 9px;
+		}
+
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a > li.normal > a { color: #f7f9f6;}
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a > li.normal > a { background-color: transparent; } #navigation-bd326d0e-a31c-76d3-1255-e2594090218a > li.normal > a { background-image: none; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a, #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a { color: #FFFFFF; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li.normal > a { color: #f7f9f6; }#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li.normal > a { background-image: none; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li.normal > a { background-color: #50a14a; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a, #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a, #navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li.childselected > a { background-color: #50a14a; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.normal:hover > a { color: #FFFFFF; }
+		#navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.normal:hover > a { background-color: #50a14a; } #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a, #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a, #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.normal:hover > a { background-image: none; }
+		.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a,
+		.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a { color: #FFFFFF; }.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.selected > a,
+		.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li.childselected > a { background-color: transparent; }.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li:hover > a { color: #FFFFFF; }.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a li:hover > a { background-color: transparent; }.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li > a { color: #f7f9f6; }.mobile-view #navigation-bd326d0e-a31c-76d3-1255-e2594090218a ul > li > a { background-color: transparent; }

@@ -1,0 +1,32 @@
+Return-Path: <uttejpalavai@uk-s2.dedicatedpanel.net>
+Delivered-To: uttejpalavai@uk-s2.dedicatedpanel.net
+Received: from uk-s2.dedicatedpanel.net
+	by uk-s2.dedicatedpanel.net with LMTP
+	id oH1iOXHLJmEwUQAA1c8v6A
+	(envelope-from <uttejpalavai@uk-s2.dedicatedpanel.net>)
+	for <uttejpalavai@uk-s2.dedicatedpanel.net>; Thu, 26 Aug 2021 00:00:01 +0100
+Return-path: <uttejpalavai@uk-s2.dedicatedpanel.net>
+Envelope-to: uttejpalavai@uk-s2.dedicatedpanel.net
+Delivery-date: Thu, 26 Aug 2021 00:00:01 +0100
+Received: from uttejpalavai by uk-s2.dedicatedpanel.net with local (Exim 4.94.2)
+	(envelope-from <uttejpalavai@uk-s2.dedicatedpanel.net>)
+	id 1mJ1sH-000AYO-Pd
+	for uttejpalavai@uk-s2.dedicatedpanel.net; Thu, 26 Aug 2021 00:00:01 +0100
+From: "(Cron Daemon)" <uttejpalavai@uk-s2.dedicatedpanel.net>
+To: uttejpalavai@uk-s2.dedicatedpanel.net
+Subject: Cron <uttejpalavai@uk-s2> /root/backup.sh
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=c1663169>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/1284>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/bash>
+X-Cron-Env: <HOME=/home/uttejpalavai>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=uttejpalavai>
+X-Cron-Env: <USER=uttejpalavai>
+Message-Id: <E1mJ1sH-000AYO-Pd@uk-s2.dedicatedpanel.net>
+Date: Thu, 26 Aug 2021 00:00:01 +0100
+
+/bin/bash: /root/backup.sh: Permission denied

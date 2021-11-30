@@ -1,0 +1,2 @@
+a:1:{s:7:"4_41464";a:5:{s:5:"insid";s:7:"4_41464";s:8:"from_ver";s:5:"1.6.2";s:6:"to_ver";s:5:"1.6.3";s:10:"error_code";i:1;s:5:"error";s:400:"This installation does not meet the Upgrade requirements. Hence it cannot be auto upgraded. Following are the details :
+The current version is greater than or equal to the version you are upgrading to. This is possible if you manually upgraded the installation. If this is not the case please check the following checkbox : <br /> <input type="checkbox" name="version_override"  /> Forcefully Upgrade";}}
