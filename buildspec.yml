@@ -3,15 +3,14 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      java: openjdk8
+      java: corretto11
   pre_build:
     commands:
       - echo Nothing to do in the pre_build phase...
   build:
     commands:
-      - echo Build started on `date`
-      - mvn install
-      - mvn test
+      -  echo Nothing to build here as it's node!
+ 
   post_build:
     commands:
       - echo Build completed on `date`
