@@ -9,7 +9,7 @@ phases:
       - echo Nothing to do in the pre_build phase...
   build:
     commands:
-      -  echo Nothing to build here as it's node!
+      -  echo Nothing to build here as it
  
   post_build:
     commands:
